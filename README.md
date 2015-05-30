@@ -1,4 +1,5 @@
 # Web App Template by guoguo11
+Git has a mutable index called stage.
 
 The is a template for a web app: Java with Maven, JavaScript with Grunt.
 
