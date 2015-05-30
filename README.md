@@ -1,4 +1,4 @@
-# Web App Template
+# Web App Template by guoguo11
 
 The is a template for a web app: Java with Maven, JavaScript with Grunt.
 
